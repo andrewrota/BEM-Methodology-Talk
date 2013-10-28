@@ -13,7 +13,7 @@ Alternatively, if you have `python` installed you can run
 `python -m SimpleHTTPServer` in the directory of the presentation and then open `http://locahost:8000/` in a browser
 (without having to run npm or grunt).
 
-You can also view the [PDF])(https://github.com/andrewrota/BEM-Methodology-Talk/blob/master/BEM_Methodology.pdf).
+You can also view the [PDF](https://github.com/andrewrota/BEM-Methodology-Talk/blob/master/BEM_Methodology.pdf).
 
 ## Colophon
 
