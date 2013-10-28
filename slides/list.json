@@ -1,0 +1,186 @@
+[
+    "index.md",
+    {
+        "filename": "bem-methodology.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "what-is-bem.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "css.md"
+    },
+    {
+        "filename": "clutter.md",
+        "attr": {
+            "data-background": "url('images/clutter.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "specific.md",
+        "attr": {
+            "data-background": "url('images/specific.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "location.md",
+        "attr": {
+            "data-background": "url('images/location.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "ecosystem.md",
+        "attr": {
+            "data-background": "url('images/ecosystem.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "block.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "block-example.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "element.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "modifier.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "modifier-example.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "what-does-this-look-like.md"
+    },
+    {
+        "filename": "mapping-the-ui.md",
+        "attr": {
+            "data-background": "url('images/map.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "example.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "example-1.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "css-principles.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "writing-blocks.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "writing-blocks-1.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "writing-blocks-2.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "writing-blocks-3.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    "define-modifier.md",
+    {
+        "filename": "building-your-application.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    "disadvantages.md",
+    {
+        "filename": "advantage-namespacing.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },{
+        "filename": "advantage-organization.md",
+        "attr": {
+            "data-background": "url('images/bookshelf.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "filename": "advantage-programmatic-control.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "advantage-shared-ui-language.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    {
+        "filename": "preprocessors-less.md",
+        "attr": {
+            "data-background": "inherit"
+        }
+    },
+    "preprocessors-sass.md",
+    "preprocessors-stylus.md",
+    "tools-and-frameworks-bemhtml.md",
+    "tools-and-frameworks-csso.md",
+    "tools-and-frameworks-emmet.md",
+    "tools-and-frameworks-inuit.md",
+    {
+        "filename": "the-future.md",
+        "attr": {
+            "data-background": "url('images/future.jpg') no-repeat",
+            "data-background-repeat": "no-repeat",
+            "data-background-size": "100%"
+        }
+    }
+]
