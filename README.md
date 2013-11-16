@@ -18,5 +18,4 @@ You can also download the [PDF](https://github.com/andrewrota/BEM-Methodology-Ta
 ## Colophon
 
 I try to use a different HTML slideshow library for each presentation I give, so for this presentation I went with a
-[Yeoman](http://yeoman.io/) [RevealJS](http://lab.hakim.se/reveal-js/) [generator](https://github.com/slara/generator-reveal) by [slara](https://github
-.com/slara).  Slides are written in markdown and stored in the `slides` directory (and configured with `slies/list.json`).
+[Yeoman](http://yeoman.io/) [RevealJS](http://lab.hakim.se/reveal-js/) [generator by slara](https://github.com/slara/generator-reveal).  Slides are written in markdown and stored in the `slides` directory (and configured with `slies/list.json`).
